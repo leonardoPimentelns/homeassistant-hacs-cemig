@@ -1,1 +1,11 @@
 
+{
+  "domain": "cemig",
+  "name": "Cemig",
+  "version": "1.0.3", 
+  "documentation": "https://www.home-assistant.io/integrations/pynubank",
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": []
+}
